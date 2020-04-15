@@ -14,7 +14,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'ps(yu56blu3a_30%yufo=dl&cv-c9r3@cq=0e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://abundaflow.herokuapp.com/',]
+ALLOWED_HOSTS = ['abundaflow.herokuapp.com',]
 
 
 # Application definition
